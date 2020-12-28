@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>games</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@v1_games_count@</string>
+		<key>v1_games_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>u</string>
+			<key>zero</key>
+			<string>Games</string>
+			<key>one</key>
+			<string>Game</string>
+			<key>other</key>
+			<string>Games</string>
+		</dict>
+	</dict>
+	<key>points</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@v1_points_count@</string>
+		<key>v1_points_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>u</string>
+			<key>zero</key>
+			<string>points</string>
+			<key>one</key>
+			<string>point</string>
+			<key>other</key>
+			<string>points</string>
+		</dict>
+	</dict>
+	<key>johns pineapples count</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@v1_pineapples_count@</string>
+		<key>v1_pineapples_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>u</string>
+			<key>zero</key>
+			<string>John has no pineapples</string>
+			<key>one</key>
+			<string>John has 1 pineapples</string>
+			<key>other</key>
+			<string>John has %u pineapples</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
